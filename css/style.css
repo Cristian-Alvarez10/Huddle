@@ -16,7 +16,7 @@
 }
 
 body {
-  background-image: url(/images/bg-desktop.svg);
+  background-image: url(../images/bg-desktop.svg);
   background-size: 90vw 100vh;
   background-repeat: no-repeat;
   background-color: var(--Violet);
